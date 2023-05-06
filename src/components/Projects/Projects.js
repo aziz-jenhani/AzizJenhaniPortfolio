@@ -25,10 +25,11 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="Serve-u"
+              description="Serve-u est une application de gestion de restaurant innovante qui permet aux consommateurs de scanner les QR codes, de gérer les menus et les catégories, et de passer facilement des commandes. Proposant une expérience personnalisée, l'application recommande les menus, les commandes et les tables selon les préférences du propriétaire du restaurant. Simplifiez votre expérience de restauration avec Serve-u."
               ghLink="https://github.com/aziz-jenhani/aziz-serve-u"
               demoLink=""
+              style={{ width: "100%", height: "100%" }}
             />
           </Col>
 
@@ -36,10 +37,11 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              title="Super Shop"
+              description="Super Shop, l'application ultime de vente en ligne de vêtements. Explorez notre large gamme de vêtements tendance, créez votre panier et profitez d'un processus de paiement sécurisé et pratique. De plus, notre interface administrative intuitive vous permet de gérer facilement les stocks, les commandes et les promotions. Faites du shopping avec facilité et gérez votre entreprise avec succès grâce à Super Shop."
               ghLink="https://github.com/aziz-jenhani/supershop-master.com"
               demoLink=""
+              style={{ width: "100%", height: "100%" }}
             />
           </Col>
 
