@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70946e3c.css",
+    "main.js": "/static/js/main.aea285f0.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/2.png": "/static/media/2.a01d8907669e8f6a2455.png",
+    "static/media/ecomm.png": "/static/media/ecomm.5ac905efc97fb2e05392.png",
+    "static/media/CV.pdf": "/static/media/CV.bb51d37ee23daf112499.pdf",
+    "static/media/CV2.pdf": "/static/media/CV2.bf70f68bc957a6c3a80d.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/restaurent.png": "/static/media/restaurent.c7f79b3ab6b1158457b6.png",
+    "static/media/Task.png": "/static/media/Task.d3a7f6e8a300f9bc9592.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.6104472217b1ce90f83a.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.70946e3c.css.map": "/static/css/main.70946e3c.css.map",
+    "main.aea285f0.js.map": "/static/js/main.aea285f0.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70946e3c.css",
+    "static/js/main.aea285f0.js"
+  ]
+}
