@@ -49,7 +49,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          <Image src='/logo.png' alt="brand" width={60} height={60} />
+          <img src='/logoAz.png' alt="AAJ" width={60} height={60} />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
